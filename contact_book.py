@@ -2,7 +2,7 @@
 
 import time
 
-Contact = [{"name" : "Manav", "phone" : "1234567890", "Email" : "manavgodhnai88@gmail.com"}]
+Contact = [{"name" : "Manav", "phone" : "1234567890", "Email" : "manav@gmail.com"}]
 
 while True:
     print("\nContact Book Menu:\n")
