@@ -69,4 +69,4 @@ while True:
 # Each contact consists of a name, phone number, and email address.
 # The application runs in a loop until the user chooses to exit.
 # It includes basic validation for phone numbers and email addresses.
-# Enjoy managing your contacts! 📒📱
+# Enjoy managing your contacts! 📒
