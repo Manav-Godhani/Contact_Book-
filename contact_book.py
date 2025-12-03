@@ -62,3 +62,11 @@ while True:
         break
     else:
         print("Invalid Choice! ❌")
+
+
+# Contact Book Application by mnv_godhani 😉
+# contact Book allows you to view, add, and delete contacts.
+# Each contact consists of a name, phone number, and email address.
+# The application runs in a loop until the user chooses to exit.
+# It includes basic validation for phone numbers and email addresses.
+# Enjoy managing your contacts! 📒📱
